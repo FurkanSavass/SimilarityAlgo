@@ -1,0 +1,2 @@
+Kullandığım algoritma jaccard algoritmasına benzer. İlk olarak metinleri kelimelere bölerek değişkene atıyor. Daha sonra total kelime için iki metinin uzunluğunu topluyor. Birinci metindeki kelimeleri tek tek ikinci metindeki kelimeler ile karşılaştırıyor.
+Kelimeler aynıysa sayacı bir arttırıyor ve total kelimelerden bir azaltıyor çünkü benzer kelime iki kere sayılmış oluyor. En sonunda benzer kelimeleri toplam kelimelere oranlayıyor.
